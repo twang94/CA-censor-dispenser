@@ -144,12 +144,12 @@ after a term from those two lists.
 """
 
 # unfinished
-def censor_four(phraselist, text):
-    c4_split = text.split(" ")
-    #for word in c4_split:
-    # checking word before
-    #print(output)
-    #c4_text = " ".join(output)
+# def censor_four(phraselist, text):
+#     #c4_split = text.split(" ")
+#     #for word in c4_split:
+#     # checking word before
+#     #print(output)
+#     #c4_text = " ".join(output)
 
 
-print(censor_four(combined_list, email_four))
+# print(censor_four(combined_list, email_four))
